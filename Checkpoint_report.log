@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.28)  6 FEB 2025 18:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.28)  6 FEB 2025 19:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,7 +392,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 80.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 77.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -400,28 +400,37 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [1
-
-
-] [2] [3]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 318.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 89.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [4] [5] [6] (./Checkpoint_report.aux)
+) [1
+
+
+] [2] [3] [4] [5] [6] (./Checkpoint_report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `Checkpoint_report.out' has not changed.
-(rerunfilecheck)             Checksum: FE7117CE98ABF582EA6BCDD31604255A;2358.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Checkpoint_report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Checkpoint_report.out':
+(rerunfilecheck)             Before: 2598C2DC0C1B41A1FB61966EAB68D339;2712
+(rerunfilecheck)             After:  D6D8E5ABAE062C0AAE781373E58E8149;2888.
  ) 
 Here is how much of TeX's memory you used:
  11011 strings out of 474773
  178087 string characters out of 5757724
- 1931839 words of memory out of 5000000
+ 1932839 words of memory out of 5000000
  33026 multiletter control sequences out of 15000+600000
  587375 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,9n,79p,1114b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,9n,79p,1114b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Checkpoint_report.pdf (6 pages).
