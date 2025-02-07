@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.28)  6 FEB 2025 20:38
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.28)  6 FEB 2025 23:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -455,21 +455,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[4] (./Checkpoint_report.aux)
+File: git.png Graphic file (type bmp)
+<git.png>
+
+Overfull \hbox (64.55113pt too wide) in paragraph at lines 182--183
+ [][] 
+ []
+
+[4] [5] (./Checkpoint_report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `Checkpoint_report.out' has not changed.
-(rerunfilecheck)             Checksum: 5FCC19800E59155CB747416E558459B2;1854.
+(rerunfilecheck)             Checksum: 3F98789D8806A9531291D97DD2A9D996;2143.
  ) 
 Here is how much of TeX's memory you used:
- 11463 strings out of 474773
- 184620 string characters out of 5757724
+ 11473 strings out of 474773
+ 184742 string characters out of 5757724
  1932839 words of memory out of 5000000
- 33460 multiletter control sequences out of 15000+600000
+ 33469 multiletter control sequences out of 15000+600000
  577525 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,8n,79p,1114b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Checkpoint_report.pdf (4 pages).
+Output written on Checkpoint_report.pdf (5 pages).
